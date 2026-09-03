@@ -9,9 +9,12 @@
             <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/repository/Repository.java</file>
             <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/so/rezervacija/DeleteRezervacijaSO.java</file>
             <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/so/gost/AddGostSO.java</file>
+            <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/so/strucnasprema/EditStrucnaSpremaSO.java</file>
             <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/repositorydb/DbRepository.java</file>
             <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/repositorydb/impl/RepositoryDbGeneric.java</file>
+            <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/threads/HandleClientThread.java</file>
             <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/repositorydb/DbConnectionFactory.java</file>
+            <file>file:/C:/Users/Nikola/Desktop/SeminarskiPS/rezervacija-hotelske-sobe-ps/SeminarskiServer/src/so/strucnasprema/GetAllStrucnaSpremaSO.java</file>
         </group>
     </open-files>
 </project-private>
